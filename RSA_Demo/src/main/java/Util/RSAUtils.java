@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * RSA 工具类
  *
- * @author cyh
+ * @author Lucius Chen
  * @version 2018-02-01
  * @see RSAUtils
  */
